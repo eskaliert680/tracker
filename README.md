@@ -12,10 +12,21 @@ git clone https://github.com/eskaliert680/tracker.git
 cd tracker
 ```
 
-then install dependencies
+### Set up location daemon
+You need this to continuously update the location of your device.
+
+### Set up server
+Install dependencies
 
 ```bash
+cd server
 pip install -r dependencies.txt
+```
+
+add a `.env` file
+
+```bash
+mv .env.example .env
 ```
 
 Now you'll need to set up a Supabase project.
