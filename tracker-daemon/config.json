@@ -1,0 +1,6 @@
+{
+  "delay": 0.1,
+  "url": "http://127.0.0.1:5000",
+  "supabase_anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRxbnpidXVoaGFobmd5cGJrZWRkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDMwNDEzNzQsImV4cCI6MjA1ODYxNzM3NH0.qKystn7uyeQBQaCmhqnWtwAO__TZSIXEMJljp9KaCkk",
+  "supabase_url": "https://tqnzbuuhhahngypbkedd.supabase.co"
+}
